@@ -5,20 +5,20 @@
 
 .jumbotron {
     color: blue;
+    background-color: peachpuff;
     max-width: 100%;
- 
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .sidenav{
- 
-
 }
 
 #dogs {
     display: block;
     margin-left: auto;
-    margin-right: auto;
-    
+    margin-right: auto; 
 }
 
 #head {
@@ -27,11 +27,18 @@
 
 .panel{
     width: auto;
-    justify-content: center;
-    
+    justify-content: center;    
 }
 
 .body{
     background-color: lightsteelblue;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.my-style {
+    border: 2px solid red;
+    margin: 12px;
+    padding: 10px;
+    text-align: center;
+}
+
