@@ -1,6 +1,16 @@
 #world {
-    height: 150px;
-    width: 150px;
+    height: 175px;
+    width: 175px;
+}
+
+.jumbotron {
+    color: blue;
+}
+
+.sidenav{
+    fill: 
+    height: 100%;
+
 }
 
 #dogs {
@@ -12,4 +22,14 @@
 
 #head {
     text-align: center;
+}
+
+.panel{
+    width: auto;
+    justify-content: center;
+    
+}
+
+.body{
+    background-color: blanchedalmond;
 }
