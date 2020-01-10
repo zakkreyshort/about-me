@@ -8,8 +8,7 @@
 }
 
 .sidenav{
-    fill: 
-    height: 100%;
+    background-color: lightgrey;
 
 }
 
@@ -31,5 +30,5 @@
 }
 
 .body{
-    background-color: blanchedalmond;
+    background-color: lightsteelblue;
 }
