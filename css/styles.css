@@ -5,10 +5,11 @@
 
 .jumbotron {
     color: blue;
+    max-width: 100%;
 }
 
 .sidenav{
-    background-color: lightgrey;
+ 
 
 }
 
