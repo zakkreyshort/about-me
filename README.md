@@ -16,7 +16,7 @@ _This is a basic page using different elements of HTML, CSS, and Markdown._
 * _Bootstrap_
 * _Knowledge of CSS, HTML_
 
-## Gh-Pages Link: https://github.com/zakkreyshort/about-me/tree/gh-pages
+## Gh-Pages Link: https://zakkreyshort.github.io/about-me/
 
 ## Known Bugs
 
